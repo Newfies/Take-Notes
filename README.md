@@ -23,3 +23,6 @@ I also only have very little experience with ExpressJS
     cd backend
     node server.js
 ```
+
+
+# PROJECT STATUS - FAILED, AI SUCKS :/
